@@ -5,15 +5,3 @@ body {
 .topic-links {
   margin-bottom: 60px;
 }
-
-@media (max-width: 992px) {
-  h1 {
-    font-size: 100px;
-  }
-  h2 {
-    font-size: 80px;
-  }
-  a {
-    font-size: 70px;
-  }
-}
