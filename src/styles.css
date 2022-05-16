@@ -5,3 +5,9 @@ body {
 .topic-links {
   margin-bottom: 60px;
 }
+
+@media (max-width: 768px) {
+  a {
+    font-size: 30px;
+  }
+}
